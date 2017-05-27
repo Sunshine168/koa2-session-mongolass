@@ -1,0 +1,25 @@
+{
+  "name": "koa2-session-mongolass",
+  "version": "1.0.0",
+  "description": "session store with mongolass for koa2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa2",
+    "session",
+    "mongo",
+    "mongolass"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sunshine168/koa2-session-mongolass.git"
+  },
+  "author": "Sunner168",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.6.8",
+    "mongolass": "^2.4.5"
+  }
+}
